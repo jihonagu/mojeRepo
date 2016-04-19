@@ -1,3 +1,3 @@
 print('cos')
-print('cos2')
-print('cos3')
+#cos
+print(2)
